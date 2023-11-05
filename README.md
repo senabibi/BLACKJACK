@@ -66,7 +66,6 @@ Here's a video demonstrating the Blackjack Simulator in action:
 Welcome to our Python-based Blackjack (21) game! This project is designed to bring the classic card game Blackjack to life in an engaging and interactive way. In Blackjack, the goal is to beat the dealer by having a hand value closer to 21 without going over. This project, developed in Python, adheres to Object-Oriented Programming (OOP) principles and offers a user-friendly console interface for easy gameplay. It simulates standard Blackjack rules and gameplay, allowing players to place bets, draw cards, and calculate winnings. It keeps track of player and dealer cards, hand values, and determines the winner. Feel free to explore the code and enjoy playing Blackjack!
 
 
-[![Blackjack Code Demo](https://github.com/senabibi/Blackjack/blob/main/images/code.gif)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
