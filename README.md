@@ -212,16 +212,16 @@ The development of this project was made possible thanks to the following resour
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/senabibi/Coffee_Machine.svg?style=for-the-badge
-[contributors-url]: https://github.com/senabibi/Coffee_Machine/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/senabibi/Coffee_Machine.svg?style=for-the-badge
-[forks-url]: https://github.com/senabibi/Coffee_Machine/network/members
-[stars-shield]: https://img.shields.io/github/stars/senabibi/Coffee_Machine.svg?style=for-the-badge
-[stars-url]: https://github.com/senabibi/Coffee_Machine/stargazers
-[issues-shield]: https://img.shields.io/github/issues/senabibi/Coffee_Machine.svg?style=for-the-badge
-[issues-url]: https://github.com/senabibi/Coffee_Machine/issues
-[license-shield]: https://img.shields.io/github/license/senabibi/Coffee_Machine.svg?style=for-the-badge
-[license-url]: https://github.com/senabibi/Coffee_Machine/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/senabibi/Blackjack.svg?style=for-the-badge
+[contributors-url]: https://github.com/senabibi/Blackjack/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/senabibi/Blackjack.svg?style=for-the-badge
+[forks-url]: https://github.com/senabibi/Blackjack/network/members
+[stars-shield]: https://img.shields.io/github/stars/senabibi/Blackjack.svg?style=for-the-badge
+[stars-url]: https://github.com/senabibi/Blackjack/stargazers
+[issues-shield]: https://img.shields.io/github/issues/senabibi/Blackjack.svg?style=for-the-badge
+[issues-url]: https://github.com/senabibi/Blackjack/issues
+[license-shield]: https://img.shields.io/github/license/senabibi/Blackjack.svg?style=for-the-badge
+[license-url]: https://github.com/senabibi/Blackjack/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/nursena-bitirgen-5743341b9/
 [product-screenshot]: images/logo.png
